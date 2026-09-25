@@ -18,8 +18,6 @@
 
 </div>
 
-> *"Networking is the invisible fabric of everything we do in cybersecurity and systems engineering."*
-
 ---
 
 ## 🗺️ Course Progress Tracker
